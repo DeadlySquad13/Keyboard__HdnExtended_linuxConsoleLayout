@@ -41,8 +41,8 @@ keycode  40 = j
 keycode  43 = parenright
     shift keycode  43 = braceright
 #
-keycode  41 = question
-    shift keycode  41 = bar
+keycode  86 = question
+    shift keycode  86 = bar
 keycode  44 = x
 keycode  45 = c
 keycode  46 = l
@@ -53,7 +53,5 @@ keycode  50 = u
 keycode  51 = o
 keycode  52 = y
 keycode  53 = k
-keycode  54 = question
-    shift keycode  54 = bar
 #
 include "compose"
