@@ -1,0 +1,30 @@
+# qwertz-layout
+keycode  12 = w
+keycode  13 = f
+keycode  14 = m
+keycode  15 = p
+keycode  17 = v
+keycode  16 = slash
+keycode  32 = period
+keycode  34 = q
+keycode  31 = apostrophe
+keycode  35 = quotedbl
+#
+keycode   0 = r
+keycode   1 = s
+keycode   2 = n
+keycode   3 = t
+keycode   5 = g
+keycode   4 = comma
+keycode  38 = a
+keycode  40 = e
+keycode  37 = i
+#
+keycode   6 = x
+keycode   7 = c
+keycode   8 = l
+keycode   9 = d
+keycode  11 = b
+keycode  45 = hyphen
+keycode  46 = u
+#
